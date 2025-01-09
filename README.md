@@ -21,7 +21,7 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
 [![Dashboard1.png](https://i.postimg.cc/Gp3yq0cT/Dashboard1.png)](https://postimg.cc/Sn5RxvYm)
 <!-- ![App Screenshot](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Media/Dashboard2.png) -->
 [![Dashboard2.png](https://i.postimg.cc/RVyRqZLC/Dashboard2.png)](https://postimg.cc/vc79NMKC)
-Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
+Watch the complete Dashboard video [Link]((https://www.youtube.com/watch?v=v_UwtqaN0U)
 
 ## ✔️ Conclusion
 1. 2017 had the highest Revenue at 85.12M, followed by 2019 at 76.12 and 2018 at 20.36M
@@ -35,17 +35,17 @@ Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
 5. Paracel Gigaplace & Pereras are the top customers who generated the highest revenue
 ## 🗂 Documentation
 
-[High Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/HLD%20Document.pdf)
+[High Level Document](https://github.com/RohanExploit/amazon_data_analytics/blob/main/HLD%20Document.pdf)
 
-[Low Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/LLD%20Document.pdf)
+[Low Level Document](https://github.com/RohanExploit/amazon_data_analytics/blob/main/LLD%20Document.pdf)
 
-[Architecture](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Architecture.pdf)
+[Architecture](https://github.com/RohanExploit/amazon_data_analytics/blob/main/Architecture.pdf)
 
-[WireFrame](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Wireframe.pdf)
+[WireFrame](https://github.com/RohanExploit/amazon_data_analytics/blob/main/Wireframe.pdf)
 
-[Report](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Amazon%20sales%20report.pptx)
+[Detail Project Report](https://github.com/RohanExploit/amazon_data_analytics/blob/main/Detailed%20Project%20Report.pdf)
 
 ## 📩 Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/shivamsh/)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/rohangaikwadlink/)
 
